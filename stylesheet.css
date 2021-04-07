@@ -24,6 +24,7 @@ header {
 .header-logo {
     height: 100%;
     padding: 5px 10px;
+    display: flex;
 }
 
 .header-name {
