@@ -108,6 +108,16 @@ const imgs = [
         id: 22,
         img: "img/utadasheena.jpg",
         title: "utadasheena"
+    },
+    {
+        id: 23,
+        img: "img/spl_water.PNG",
+        title: "spl water"
+    },
+    {
+        id: 24,
+        img: "img/la.png",
+        title: "LA"
     }
 ];
 
