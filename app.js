@@ -1,8 +1,8 @@
 const imgs = [
     {
         id: 1,
-        img: "img/1stdrawing.PNG",
-        title: "1stdrawing"
+        img: "img/tea.png",
+        title: "greentea"
     },
     {
         id: 2,
@@ -118,6 +118,11 @@ const imgs = [
         id: 24,
         img: "img/la.png",
         title: "LA"
+    },
+    {
+        id: 25,
+        img: "img/1stdrawing.PNG",
+        title: "1stdrawing"
     }
 ];
 
@@ -127,12 +132,12 @@ for(let i = 0; i < 8; i++){
 };
 
 const secondRowImgs = [];
-for(let i = 8; i < 15; i++){
+for(let i = 8; i < 16; i++){
     secondRowImgs.push(imgs[i]);
 };
 
 const thirdRowImgs = [];
-for(let i = 15; i < imgs.length; i++){
+for(let i = 16; i < imgs.length; i++){
     thirdRowImgs.push(imgs[i]);
 };
 
